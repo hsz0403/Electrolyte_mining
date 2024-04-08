@@ -1,25 +1,18 @@
 # ChatGPT_Chemistry_Assistant
-ChatGPT Chemistry Assistant
 
-Please check out https://pubs.acs.org/doi/10.1021/jacs.3c05819 for more details.
+ChatGPT Chemistry Assistant
 
 Step-by-step illustrations of setting up Processes 1, 2, and 3 were shown in the Supporting Information file of this article in the cookbook style.
 
-If you find this work helpful to your research, kindly consider citing the following: 
-
-Zheng, Z.;  Zhang, O.;  Borgs, C.;  Chayes, J. T.; Yaghi, O. M., ChatGPT Chemistry Assistant for Text Mining and Prediction of MOF Synthesis. J. Am. Chem. Soc. 2023. (DOI: 10.1021/jacs.3c05819)
-
 Thank you!
 
-**Contents** 
+**Contents**
 
 · Text Mining: PDF Text Processing and Analysis with OpenAI's _gpt-3.5-turbo_ API or  _gpt-4_ API
 
 · MOF Chatbot: a chatbot answers question based on post text mining data
 
 · Predictive Model: A RF classfifier trained on post text mining data
-
-
 
 **Features**
 
@@ -38,10 +31,6 @@ _This text mining assistant includes the following main functions:_
 · Selection of top similarity sections and their neighbors in the data.
 
 · Calculation of text token count using the tiktoken library.
-
-
-
-
 
 _This MOF Synthesis Assistant tool provides the following core functionalities:_
 
@@ -79,11 +68,9 @@ _This machine learning tool includes the following primary functions:_
 
 · Reporting: Records all performance metrics in an organized format for model comparison.
 
-
 **Dependencies**
 
 · This project is built on Python and requires the following libraries:
-
 
 _openai_
 
@@ -95,12 +82,8 @@ _pandas_
 
 _tiktoken_
 
-
 _sklearn_
 
 _numpy_
 
 _mendeleev_
-
-
-
