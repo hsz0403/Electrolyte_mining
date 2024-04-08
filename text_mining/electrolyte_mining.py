@@ -442,7 +442,6 @@ def model_2(df):
     """Model 2 has two parts. First, it asks ChatGPT to identify the experiment section,
     then it combines the results"""
     
-
     response_msgs = []
     
     prev_paper_name = None  # Initialize the variable. For message printing purpose
