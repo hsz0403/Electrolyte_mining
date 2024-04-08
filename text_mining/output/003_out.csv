@@ -1,0 +1,17 @@
+"Based on the provided text, here’s a summary of the experimental materials and information related to polymerization mechanism and properties of interest presented in a tabular format."
+""
+"The provided text describes the creation and examination of in situ cross-linked plastic crystal-based electrolyte (CPCE) for lithium metal batteries, detailing the materials used, the polymerization mechanism, and several noteworthy properties."
+""
+**Property**,**Value**,**Unit**
+**Polymer Monomers**,"Succinonitrile (SN), Ethoxylated Trimethylolpropane Triacrylate (ETPTA)",N/A
+**Initiators**,Azobisisobutyronitrile (AIBN),N/A
+**Temperature**,"Wide Electrochemical Window (≈5.4 V vs Li+/Li), Broad operating temperature range (-20 to 100 °C)","°C, V"
+**Time**,Heating involved in polymerization process (at 60 °C for 2 h and 80 °C for 6 h),Hours (h)
+**Polymerization Mechanism**,In Situ Cross-Linking,In Situ Crosslinking Polymerization
+**Conductivity**,1.08,mS cm−1 at 40 °C
+**Ionic Transference Number**,0.64,N/A
+**Electrochemical Window**,≈5.4,V vs Li/Li+
+**Critical Current Density**,"Not explicitly mentioned, refer to highest levels of cycle life (>4800 h) and critical current density (4 mA cm−2) in symmetric cells using CPCE",mA cm−2
+**Tensile Strength**,N/A,N/A
+""
+"Note: The table contains insights extracted from the provided literature about the development of CPCE for lithium metal batteries, specifically focusing on the experimental procedure and the resultant polymer electrolyte’s characteristics. Some properties like tensile strength were not discussed in the provided text, leading to their designation as N/A (Not Available)."
