@@ -1,0 +1,115 @@
+polymer monomers,initiators,temperature,time,"Free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+liquid VC,thermally initialized radical initiator,60 °C,24 h,free radical polymerization mechanism,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+--------------------------------,----------------------,----------------,-------,---------------------------------------------------------------------------------------------------------------------------,---------------------,-------------------------------,-----------------------,---------------------------------,----------------------------
+"vinyl chloride, lithium difluoro(oxalato)borate (LiDFOB)",azobisisobutyronitrile (AIBN),60 °C,24 h,free radical polymerization mechanism,"2.23 × 10⁻⁵ S cm⁻¹, 9.82 × 10⁻⁵ S cm⁻¹",0.57,4.5 V versus Li/Li⁺,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+pvca,n/a,n/a,n/a,free radical,9.82 × 10^-5 s cm^-1,n/a,4.5 v,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+---------------------,------------,------------,------,--------------------------------------------------,--------------,-----------------------------,------------------------,----------------------------------,---------------------------------
+"vc, aibn, cellulose separator",n/a,"60 °c, 24 h, 80 °c, 10 h",n/a,n/a,23 x 10^-5 s cm-1 at room temperature,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"Free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+-------------------------,------------,-------------,------,-----------------------------------------------------------------------------------------------,--------------,---------------------------,-------------------------,------------------,----------------------------------
+"1,3-dioxolane, 1,2-dimethoxyethane",lithium hexafluorophosphate (LiPF6),ambient,N/A,cationic ring-opening polymerization with LiPF6,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+-----------------,-----------,----------,----,-----------------------------------------------------------------,------------,-----------------------,----------------------,-------------------------,--------------------------------
+dol,liPF6,n/a,10 hours,cationic polymerization,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+---,---,---,---,---,---,---,---,---,---
+LiPF6,N/A,N/A,N/A,cationic ring-opening polymerization,N/A,N/A,N/A,N/A,N/A
+DOL/DME,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+---,---,---,---,---,---,---,---,---,---
+"dol, dme",LiPF6,room temperature,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"succinonitrile (SN), ethoxylated trimethylolpropane triacrylate (ETPTA)",N/A,N/A,N/A,N/A,N/A,N/A,≈5.4 V vs Li+/Li,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+----------------------,------------,------------,--------,---------------------------------------------------------------------------,-------------,---------------------------,------------------------,---------------------------,-----------------------------
+"ETPTA, FEC, LiTFSI, LiDFOB",azobisisobutyronitrile (AIBN),heating process,hours,free radical polymerization mechanism,1.08 mS cm^–1 at 40 °C,0.64,"5.4 V vs Li/Li+, suitable for high-energy-density batteries",N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+-------------------------,-----------,------------,------,--------------------------------------------------------------------,--------------,-------------------------,------------------------,------------------------------------------,-----------------------------------
+"etpta, sn, peo",n/a,n/a,n/a,"free radical polymerization, anionic ring-opening polymerization",n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+---------------------------------,-------------,-------------,------,--------------------------------------------------,---------------,---------------------------,-------------------------,----------------------------------,----------------------------------
+ETPTA molecules with highly polar groups,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+--,--,--,--,--,--,--,--,--,--
+"LiDFOB, SN, LiTFSI, FEC, ETPTA","2,2′-azobis(2-methylpropionitrile)","60°C, 80°C","2 h, 6 h",N/A,N/A,N/A,N/A,N/A,N/A
+"LiDFOB, SN, LiTFSI",N/A,60°C,Until fully dissolved,N/A,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+poly(diallyldimethylammonium) bis(fluorosulfonyl)imide (PDADMA FSI),N/A,80 °C,N/A,N/A,1.0 x 10^-3 S cm-1 at 80 °C,~0.57,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+n/a,n/a,n/a,n/a,n/a,10^-5 to over 10^-3 S cm^-1,0.57 at 80 °C,n/a,n/a,n/a
+n/a,n/a,n/a,n/a,n/a,4.5 x 10^-6 to 3 x 10^-4 S cm^-1,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+pdadma-based pes,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+pdadma,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"1,3-dioxane",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+"1,3-dioxane (DOX)",Al(OTf)3,N/A,N/A,Cationic ring-opening polymerization,N/A,N/A,N/A,N/A,N/A
+"1,3-dioxolane (DOL)","Li hexafluorophosphate (LiPF6), Al(OTf)3",N/A,N/A,Cationic ring-opening polymerization,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+"liFSI--DOX, dox",al(otf) 3,n/a,36 h,n/a,n/a,n/a,n/a,n/a,n/a
+"lifsi--dol, dol",n/a,n/a,12 h,n/a,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+"p-dol, p-dox",n/a,n/a,n/a,free radical polymerization,n/a,n/a,n/a,n/a,n/a
+"p-dol, p-dox",n/a,n/a,n/a,cationic and anionic ring-opening polymerization,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+-------------------,-----------,------------,------,-------------------------------------------------------,--------------,-----------------------,-----------------------,---------------------------------,--------------------------------
+"1,3-dioxane (DOX)",Al(OTf)3,60°C,36 h,N/A,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"Free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+-----------------------,------------,-------------,------,--------------------------------------------------,--------------,------------------------,------------------------,---------------------------,--------------------------------
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+fluorinated li-salt monomer and peo-substituted vinyl ether,photo-crap,n/a,n/a,free radical polymerization,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+homo-sipes,n/a,"n/a, n/a, n/a, n/a",n/a,n/a,n/a,n/a,n/a,n/a,n/a
+random-sipes,n/a,"n/a, n/a, n/a, n/a",n/a,n/a,n/a,n/a,n/a,n/a,n/a
+block-sipes,n/a,"n/a, n/a, n/a, n/a",n/a,n/a,n/a,n/a,n/a,n/a,n/a
+alter-sipes,n/a,"n/a, n/a, n/a, n/a",n/a,n/a,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,polymerization mechanism,conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+---------------------,------------,-------------,-------,-------------------------------------------------------------------,--------------,--------------------------,-----------------------,------------------------------,--------------------------------
+"alter-sipe, PEO-1",N/A,N/A,N/A,N/A,4.1 x 10^-6,0.93,N/A,30 Â°C: tLi+ = 0.93,N/A
+"alter-sipe, PEO-2",N/A,N/A,N/A,N/A,6.7 x 10^-6,0.91,N/A,N/A,N/A
+"random-sipe, PEO-2",N/A,N/A,N/A,N/A,7.4 x 10^-7,0.90,N/A,N/A,N/A
+"block-sipe, PEO-2",N/A,N/A,N/A,N/A,6.2 x 10^-6,0.95,N/A,N/A,N/A
+homo-sipePEO-1,N/A,N/A,N/A,N/A,3.4 x 10^-6,0.21,N/A,N/A,N/A
+homo-sipePEO-2,N/A,N/A,N/A,N/A,6.1 x 10^-6,0.18,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+---,---,---,---,---,---,---,---,---,---
+"lithium salt monomer (LSM), poly(ethylene glycol) methyl ether (PEOn-VE), chain transfer agent (CTA), photocatalyst (PC)",DMSO,25 °C,24 h,free radical polymerization,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+---------------------,------------,--------------,------,-------------------------------------------------------------------------,--------------,-------------------------,-------------------------,----------------------,---------------------------------
+Fluorinated phosphate cross-linker,not specified,not specified,not specified,not specified,N/A,N/A,N/A,N/A,N/A
+Organic liquid electrolytes (LEs),not specified,not specified,not specified,not specified,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+trimethylolpropane triacrylate (ETPTA),N/A,N/A,N/A,Free radical polymerization mechanism,4.45 mS cm-1 at 25 °C,N/A,N/A,N/A,N/A
+tri(acryloyloxyethyl) phosphate (TAEP),N/A,N/A,N/A,Free radical polymerization mechanism,N/A,N/A,N/A,N/A,N/A
+fluoroalkyl (-CF2CF2-),N/A,N/A,N/A,Free radical polymerization mechanism,N/A,N/A,N/A,N/A,N/A
+vinylene carbonate (VC),N/A,N/A,N/A,Free radical polymerization mechanism,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+-----------------,----------,----------,----,------------------------------------------------------------,------------,------------------------,---------------------,------------------------------,-----------------------------
+FP -GPE,N/A,N/A,N/A,Free radical polymerization mechanism,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+fluoroalkyl phosphate cross-linker,N/A,N/A,N/A,in-situ polymerized FP-GPE,N/A,N/A,>4.9 V vs Li/Li+,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+dioxolane (DOL),Aluminium triflate (Al(OTf)3),N/A,N/A,cationic ring-opening polymerization,N/A,N/A,N/A,N/A,N/A
+dioxolane (DOL),Aluminium triflate (Al(CF3SO3)3),N/A,N/A,cationic ring-opening polymerization,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+dioxolane (DOL),Al(OTf)3,N/A,N/A,ring-opening polymerization,N/A,N/A,N/A,N/A,N/A
+2 m LiTFSI/DOL,Al(OTf)3,N/A,N/A,ring-opening polymerization,N/A,N/A,N/A,N/A,N/A
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+"dol-LiTFSI, Al(OTf)3",N/A,N/A,N/A,Free radical polymerization,N/A,N/A,>5 V,1 mA cm−2,N/A
+polymer monomers,initiators,temperature,time,polymerization mechanism,conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+dioxolane (DOL),"al(otf)3 salt, litfsi",n/a,n/a,n/a,mS cmâˆ1 levels at room temperature,n/a,n/a,2 mA cm âˆ2,n/a
+poly-DOL,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (ccd),tensile strength of the polymer
+--------------------------------,-----------,-------------,------,------------------------------------------------------------,-------------,-----------------------,--------------------------,----------------------------,----------------------------------
+"dol, dimethoxyethane",n/a,24 °C,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+thf,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
+polymer monomers,initiators,temperature,time,"free radical polymerization mechanism, cationic, and anionic ring-opening polymerization",conductivity,ionic transference number,electrochemical window,critical current density (CCD),tensile strength of the polymer
+------------------,------------,------------,------,-----------------------------------------------,--------------,-------------------------,-----------------------,--------------------------,--------------------------------
+"1,2-dioxolane",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
