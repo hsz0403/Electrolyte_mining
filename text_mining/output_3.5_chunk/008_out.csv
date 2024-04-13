@@ -1,0 +1,85 @@
+Property,Value,Unit
+Property,Value,Unit
+monomers,"1,3-dioxolane (DOL)",N/A
+Initiators,cationic aluminium species,N/A
+Temperature,Room temperature,N/A
+Time,N/A,N/A
+Mechanism,Ring-opening polymerization of molecular ethers,N/A
+Property,Value,Unit
+Conductivity,>1 mS cm−1,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,DOL (Dioxolane),-
+Initiators,"Aluminium triflate (Al(CF3SO3)3), Al(OTf)3",-
+Temperature,N/A,-
+Time,N/A,-
+Mechanism,Ring-opening polymerization initiated by cationic aluminium species,-
+Property,Value,Unit
+Conductivity,N/A,-
+number,N/A,-
+window,N/A,-
+A,-,
+polymer,N/A,-
+Property,Value,Unit
+monomers,DOL (dioxolane),N/A
+Initiators,Al(OTf)3 (Aluminum Triflate),N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,Ring-opening polymerization reaction with Al(OTf)3 as an initiator,N/A
+Interest,,
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+Monomers,DOL,N/A
+Initiators,Al(OTf)3,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,Cationic ring-opening polymerization,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,DOL,-
+Initiators,N/A,-
+Temperature,N/A,-
+Time,N/A,-
+Mechanism,"Free radical polymerization, anionic ring-opening polymerization",-
+Property,Value,Unit
+Conductivity,N/A,-
+number,N/A,-
+window,N/A,-
+A,-,
+polymer,N/A,-
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,Al(OTf)3 salt,N/A
+Temperature,Room temperature,N/A
+Time,N/A,N/A
+Property,Value,Unit
+Mechanism,Free radical polymerization using Al(OTf)3 salt,N/A
+Property,Value,Unit
+Conductivity,mS cm-1 levels,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+strength,N/A,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,"Solid-state electrolytes, including composite polymer electrolyte, polymer electrolyte, gel polymer electrolyte",N/A

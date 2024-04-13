@@ -1,0 +1,63 @@
+Property,Value,Unit
+Property,Value,Unit
+monomers,"Fluorinated Li-salt monomer, PEO-substituted vinyl ethers",-
+Initiators,Photo-CRAP,-
+Temperature,30 °C,-
+Time,N/A,-
+Mechanism,Radical alternating copolymerization,-
+Conductivity,~4.0 × 10^-5,S cm^-1
+number,0.93,-
+window,N/A,-
+A,-,
+polymer,N/A,-
+Property,Value,Unit
+monomers,Vinyl ethers,N/A
+Initiators,"Li-salt monomers (P1: CF3, P2: CH3, P3: 4-CF3-Ph, P4: Ph, P5: 4-CH3O-Ph)",N/A
+Temperature,30 °C,Celsius
+Time,N/A,N/A
+Mechanism,Photo-CRAP,N/A
+Property,Value,Unit
+Conductivity,4.2 × 10^-5,S cm^-1
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,Vinyl ether (n = 23),-
+Initiators,N/A,-
+Temperature,"30 °C, 70 °C",°C
+Time,N/A,-
+Mechanism,N/A,-
+Conductivity,"4.2 × 10^-5 S cm^-1 (at 30 °C), 1.7 × 10^-4 S cm^-1 (at 70 °C)",S cm^-1
+Number,0.84 - 0.93,-
+Window,N/A,-
+A,-,
+polymer,N/A,-
+Property,Value,Unit
+monomers,"PEO-1, PEO-2",-
+Initiators,N/A,-
+Temperature,"30 °C, 40 °C, 50 °C, 60 °C, 70 °C",°C
+Time,N/A,-
+Mechanism,N/A,-
+Property,Value,Unit
+monomers,P8,N/A
+Initiators,N/A,N/A
+Temperature,30-70°C,°C
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,2.5-3.8,V
+density,0.066-0.66,mA cm−2
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,"lithium salt monomer (LSM), poly(ethylene glycol) methyl ether (PEOn-VE)",-
+Initiators,photocatalyst (PC),-
+Temperature,25 °C,°C
+Time,24 hours,hours
+Mechanism,Photoredox polymerization,-
+Conductivity,Calculated based on the equation: σ=L RS,S/cm
+number,N/A,-
+window,2.5–3.8 V,V
+2,mA/cm²,
+polymer,N/A,-

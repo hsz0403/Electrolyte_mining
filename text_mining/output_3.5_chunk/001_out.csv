@@ -1,0 +1,74 @@
+Property,Value,Unit
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,50,°C
+Time,N/A,N/A
+Mechanism,In situ polymerization,N/A
+Conductivity,9.82 × 10^-5,S cm^-1
+number,N/A,N/A
+window,4.5,V
+density,N/A,N/A
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,"poly(propylene carbonate), poly(ethylene carbonate), poly(methyl methacrylate-styrene)",-
+Initiators,thermally initialized radical initiator,-
+Temperature,"60 °C, 30 °C",°C
+Time,24 hours,hours
+Mechanism,in situ polymerization,-
+Interest,"Conductivity: 10^-5 S cm^-1 at 30 °C, ionic transference number, electrochemical window, critical current density (CCD), tensile strength","S cm^-1, - , V, A/cm^2, -"
+Property,Value,Unit
+monomers,PVCA,N/A
+Initiators,Azobisisobutyronitrile (AIBN),N/A
+Temperature,"25 °C, 50 °C",Celsius (°C)
+Time,N/A,N/A
+Mechanism,Free radical polymerization,N/A
+anionic,,
+Interest,Conductivity,S cm^-1
+number,N/A,
+window,N/A,
+A,,
+polymer,N/A,"I will now proceed with extracting the relevant information and organizing it into the table format. Let me process the text to extract the necessary details.
+首先，我会使用LLM技术解析提供的文本以获取所需信息，接下来将提取并总结出Experimental Materials, Polymerization Mechanism和Properties of Interest的信息。"
+Property,Value,Unit
+monomers,PVCA,N/A
+Initiators,N/A,N/A
+Temperature,"25 °C, 50 °C",N/A
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Conductivity,N/A,N/A
+number,"0.57, ≈0.2",N/A
+window,4.5 V,Li/Li+
+2,N/A,
+strength,N/A,N/A
+Property,Value,Unit
+monomers,"PEO-SPE, PVCA-SPE",-
+Initiators,N/A,-
+Temperature,80 °C,Celsius
+Time,2 hours,Hours
+Mechanism,N/A,-
+Interest,-,-
+Conductivity,"ionic conductivity of PVCA-SPE (low), PEO-based (lower)",-
+number,N/A,-
+window,2.5-4.3 V,Volts
+A,-,
+polymer,N/A,-
+Property,Value,Unit
+monomers,PVCA (Polyvinyl chloride-based polymer electrolyte),...
+Initiators,N/A,...
+Temperature,"60°C for 24 hours, 80°C for 10 hours, 50°C (charging)",°C
+Time,"24 hours, 10 hours",hours
+Mechanism,N/A,...
+Interest,...,...
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,"Free radical polymerization mechanism, cationic and anionic ring-opening polymerization",N/A
+Property,Value,Unit
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A

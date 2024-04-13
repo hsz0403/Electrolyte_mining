@@ -1,0 +1,76 @@
+Property,Value,Unit
+Property,Value,Unit
+monomers,"1,3-dioxane",-
+Initiators,N/A,-
+Temperature,N/A,-
+Time,N/A,-
+Mechanism,In situ polymerization,-
+Conductivity,N/A,-
+number,0.75,-
+window,4.7 V,-
+density,N/A,-
+polymer,N/A,-
+Property,Value,Unit
+monomers,"Vinylene carbonate (VC), Fluoroethylene carbonate (FEC), 1,3-dioxolane (DOL), Tetrahydrofuran (THF), 1,3-dioxane (DOX)",-
+Initiators,"Lithium hexafluorophosphate (LiPF6), Aluminum trifluoromethanesulfonate [Al(OTf)3]",-
+Temperature,N/A,-
+Time,N/A,-
+Mechanism,Cationic ring-opening polymerization,-
+Conductivity,High ionic conductivity,-
+number,N/A,-
+window,N/A,-
+A,-,
+polymer,N/A,-
+Property,Value,Unit
+monomers,DOX,DOX
+Initiators,Al(OTf)3,N/A
+Temperature,25°C,℃
+Time,36 hours,hours
+Mechanism,Cationic ring-opening polymerization,N/A
+Property,Value,Unit
+monomers,"L-DOL, L-DOX",N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,"In situ polymerization, ring-opening polymerization",N/A
+Property,Value,Unit
+monomers,"L-DOX, P-DOL, P-DOX",N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Conductivity,N/A,N/A
+number,"L-DOX: 0.19, P-DOL: 0.65, P-DOX: 0.75",N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,"DOL, DOX",-
+Initiators,N/A,-
+Temperature,N/A,-
+Time,N/A,-
+Mechanism,Free radical polymerization mechanism,-
+Property,Value,Unit
+Conductivity,N/A,-
+number,N/A,-
+window,N/A,-
+0,mA cm/C02,
+polymer,N/A,-
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,In situ polymerized P-DOX PE,N/A
+Interest,Value,Unit
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,2.8-4.3 V,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,"1,3-dioxane (DOX)",-
+Initiators,Al(OTf)₃,-
+Temperature,60°C,-
+Time,36 hours,-
+Mechanism,In situ polymerization,-

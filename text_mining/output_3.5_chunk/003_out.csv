@@ -1,0 +1,59 @@
+Property,Value,Unit
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,-20 to 100 °C,°C
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Conductivity,High ion conductivity,N/A
+number,N/A,N/A
+window,≈5.4 V vs Li +/Li,V
+density,N/A,N/A
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,-,N/A
+Initiators,Azobisisobutyronitrile (AIBN),-
+Temperature,Range from -20 to 100 °C,°C
+Time,Heating process for hours,-
+Mechanism,In situ polymerization initiated by AIBN,Free radical polymerization mechanism
+Property,Value,Unit
+Conductivity,1.08 mS·cm–1 at 40 °C for 15PCE,mS·cm–1
+Number,0.64 for CPCE,-
+Window,5.4 V vs Li/Li+ for CPCE,V
+A,N/A,
+Polymer,N/A,N/A
+Property,Value,Unit
+monomers,"ETPTA, SN",N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,100 °C,Celsius
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Property,Value,Unit
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,N/A,N/A
+2,A/cm^2,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,-20 to 100,°C
+Time,N/A,N/A
+Mechanism,Cross-linking of CPCE,N/A
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,Fragile,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,80 °C,°C
+Time,N/A,N/A
+Mechanism,N/A,N/A

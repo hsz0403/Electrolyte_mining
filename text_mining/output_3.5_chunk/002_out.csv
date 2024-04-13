@@ -1,0 +1,47 @@
+Property,Value,Unit
+Property,Value,Unit
+monomers,DOL (Dioxolane),N/A
+Initiators,"LiPF6, PF5",N/A
+Temperature,Room temperature,N/A
+Time,N/A,N/A
+Mechanism,Cationic ring-opening polymerization,N/A
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,Polyethylene oxide,N/A
+Initiators,N/A,N/A
+Temperature,60°C,N/A
+Time,N/A,N/A
+Mechanism,Free radical polymerization mechanism,N/A
+Conductivity,3.8 × 10^(-3),S cm^(-1)
+Number,N/A,N/A
+Window,N/A,N/A
+A,N/A,
+Polymer,N/A,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,room temperature,N/A
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,Free radical polymerization mechanism,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,"Free radical polymerization mechanism, cationic and anionic ring-opening polymerization",N/A
+Property,Value,Unit
+monomers,"LiPF6, lithium bis(trifluoromethanesulfonyl)imide (LiTFSI)",-
+Initiators,N/A,-
+Temperature,"Room temperature, 25°C, 400°C",°C
+Time,N/A,-
+Mechanism,"In situ gelation of precursor solution, Direct in situ polymerization",-

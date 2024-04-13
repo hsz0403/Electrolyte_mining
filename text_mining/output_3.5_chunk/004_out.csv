@@ -1,0 +1,75 @@
+Property,Value,Unit
+Property,Value,Unit
+monomers,"Polyethylene oxide (PEO), polycarbonates, polyesters, poly(tetrahydrofuran), polymeric ionic liquid cation",
+Initiators,N/A,
+Temperature,80°C,
+Time,N/A,
+Mechanism,N/A,
+Property,Value,Unit
+monomers,Poly(diallyldimethylammonium) bis(fluorosulfonyl)imide (PDADMA FSI),N/A
+Initiators,N/A,N/A
+Temperature,"80 °C, 353 K","Celsius, Kelvin"
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Interest,Value,Unit
+Conductivity,High ionic conductivities,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,"Free radical polymerization mechanism, cationic and anionic ring-opening polymerization",N/A
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,"Free radical polymerization mechanism, cationic and anionic ring-opening polymerization",N/A
+Conductivity,N/A,N/A
+number,N/A,N/A
+window,N/A,N/A
+A,N/A,
+polymer,N/A,N/A
+Property,Value,Unit
+monomers,PDADMA,-
+Initiators,N/A,-
+Temperature,30-100,°C
+Time,N/A,-
+Mechanism,N/A,-
+Conductivity,10^-5 to >10^-3,S cm^-1
+number,0.57,-
+window,N/A,-
+A,-,
+polymer,N/A,-
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,80 °C,°C
+Time,N/A,N/A
+Mechanism,"Free radical polymerization mechanism, cationic and anionic ring-opening polymerization",
+Conductivity,high ionic conductivity,
+number,"high Na+ transference number of Na12, Na transference number of 0.63 at 80 °C",
+window,oxidation stability around 4.4 V,V
+A,N/A,
+polymer,Good mechanical property demonstrated for the Na12 composite,
+Property,Value,Unit
+monomers,N/A,N/A
+Initiators,N/A,N/A
+Temperature,N/A,N/A
+Time,N/A,N/A
+Mechanism,N/A,N/A
+Property,Value,Unit
+monomers,"PDADMA, FSI",...
+Initiators,"NaFSI, KFSI, (MgFSI)2",...
+Temperature,"600 K (initial), 393 K, 353 K",...
+Time,"Equilibrated for 2 ns, 1 ns at 353 K, 1 ns production run, subsequent production run for 30 ns",...
+Mechanism,Not specified in the text,...
